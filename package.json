@@ -1,0 +1,25 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "rpg-game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drkevinfriday/rpg-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drkevinfriday/rpg-game/issues"
+  },
+  "homepage": "https://github.com/drkevinfriday/rpg-game#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
