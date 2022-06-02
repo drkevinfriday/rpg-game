@@ -1,3 +1,3 @@
-const Game = require('./lib/Game')
+const Game2 = require('./lib/Game2')
 
-new Game().initializeGame();
+new Game2().initializeGame();
